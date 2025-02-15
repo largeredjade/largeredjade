@@ -3,7 +3,7 @@
 **Hankuk University of Foreign Studies** (2021.03~)
 > INDUSTRIAL MANAGEMENT ENGINEERING & DATA SCIENCE
 ### 💻 Extracurricular Activities
-**LikeLion 12th**
+**LikeLion 12th** (2024.03~2024.12)
 >  PM, Front-end, Back-end
 ### 🔍 Interests
 - Front-End (React) & Back-End (Django)
