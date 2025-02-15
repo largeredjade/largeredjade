@@ -2,7 +2,7 @@
 ### 🎓 Education
 **Hankuk University of Foreign Studies** (2021.03~)
 > INDUSTRIAL MANAGEMENT ENGINEERING & DATA SCIENCE
-
+### 💻 Extracurricular Activities
 **LikeLion 12th**
 >  PM, Front-end, Back-end
 ### 🔍 Interests
